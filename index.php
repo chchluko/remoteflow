@@ -13,8 +13,8 @@
 </head>
 
 <body>
-
-  Prueba de pagina
+<p>Prueba de pagina</p>
+  
   <script src="js/scripts.js"></script>
 </body>
 </html>
