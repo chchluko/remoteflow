@@ -14,6 +14,7 @@
 
 <body>
 <p>Prueba de pagina</p>
+<p class="lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit iusto reiciendis incidunt esse impedit quos est optio error placeat quasi vitae similique totam veniam cum, ab sit deserunt maxime. Doloribus.</p>
   
   <script src="js/scripts.js"></script>
 </body>
